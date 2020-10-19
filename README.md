@@ -1,1 +1,1 @@
-# Trick-cord-Treat-Shortcuts
+# Trick'cord Treat Shortcuts
