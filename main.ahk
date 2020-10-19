@@ -22,7 +22,7 @@ SendRaw t
 sleep 250
 Send {Enter}
 sleep 500
-SendRaw ||**Sent by Trick'cord Treat Shortcuts %ver%**||
+SendRaw ||**http://bit.ly/DiscordShortcuts (%ver%)**||
 sleep 250
 Send {Enter}
 return
@@ -44,7 +44,7 @@ SendRaw k
 sleep 250
 Send {Enter}
 sleep 500
-SendRaw ||**Sent by Trick'cord Treat Shortcuts %ver%**||
+SendRaw ||**http://bit.ly/DiscordShortcuts (%ver%)**||
 sleep 250
 Send {Enter}
 return
