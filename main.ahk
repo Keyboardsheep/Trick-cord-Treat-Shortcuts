@@ -2,7 +2,7 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-ver = V1.3
+ver = V1.3.1
 MsgBox, 0, Trick'cord Treat Shortcuts %ver%, Shortcuts:`nCTRL+ALT+G: Sends the message "h!treat"`nCTRL+ALT+B: Sends the message "h!trick"`nALT+F5: Closes Trick'cord Treat Shortcuts %ver%`nALT+SHIFT+F5: Closes Trick'cord Treat Shortcuts %ver% (Silent)
 
 ^!g::
